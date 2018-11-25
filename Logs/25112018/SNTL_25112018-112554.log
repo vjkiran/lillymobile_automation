@@ -1,0 +1,29 @@
+2018-11-25 11:26:28,612 - INFO - ###### TEST EXECUTION STARTED :: test_validate_mainpage_elements ######
+2018-11-25 11:26:29,016 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-25 11:26:29,653 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-25 11:26:29,764 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-25 11:26:30,435 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-25 11:26:31,087 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-25 11:26:31,215 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-25 11:26:32,094 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-25 11:26:32,400 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-25 11:26:32,456 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-25 11:26:33,337 - INFO - Element present with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-25 11:26:33,672 - INFO - Element found with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-25 11:26:33,737 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-25 11:26:34,598 - INFO - Element present with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-25 11:26:35,527 - INFO - Element found with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-25 11:26:35,623 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-25 11:26:36,298 - INFO - Element present with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-25 11:26:36,537 - INFO - Element found with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-25 11:26:36,597 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-25 11:26:37,269 - INFO - Element present with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-25 11:26:37,646 - INFO - Element found with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-25 11:26:37,710 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-25 11:26:48,250 - ERROR - Element not present with locator_properties: //android.widget.Button=[@text='OK'] and locator_type: xpath
+2018-11-25 11:26:48,250 - ERROR - Unable to click on the element with locator_properties: //android.widget.Button=[@text='OK'] and locator_type: xpath
+2018-11-25 11:26:57,600 - INFO - Element found with locator_properties: //android.widget.TextView[@text='Connected'] and locator_type: xpath
+2018-11-25 11:26:57,768 - INFO - Element present with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-25 11:26:58,079 - INFO - Element found with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-25 11:26:58,126 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-25 11:26:58,177 - ERROR - Main screen element verification failed.

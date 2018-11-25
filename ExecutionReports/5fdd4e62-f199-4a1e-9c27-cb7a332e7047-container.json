@@ -1,0 +1,1 @@
+{"uuid": "73e7bb2a-4522-4841-ac8d-bde20164f8eb", "children": ["f0e94845-b07f-43c3-81f9-b8d4bb80bb7f"], "befores": [{"name": "get_driver", "status": "passed", "start": 1543163310515, "stop": 1543163337364}], "afters": [{"name": "get_driver::teardown", "status": "passed", "start": 1543163359485, "stop": 1543163364653}], "start": 1543163310515, "stop": 1543163364653}

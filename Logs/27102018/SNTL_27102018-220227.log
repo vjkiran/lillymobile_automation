@@ -1,0 +1,13 @@
+2018-10-27 22:03:45,969 - INFO - ###### TEST EXECUTION STARTED :: test_validate_mainpage_elements ######
+2018-10-27 22:04:05,766 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'START SCAN'] and locator_type: xpath
+2018-10-27 22:04:06,848 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'DISCONNECT'] and locator_type: xpath
+2018-10-27 22:04:07,777 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'CONNECT'] and locator_type: xpath
+2018-10-27 22:04:08,690 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'START OBSERVING'] and locator_type: xpath
+2018-10-27 22:04:09,411 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'TEST CACHE'] and locator_type: xpath
+2018-10-27 22:04:10,158 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'CLEAR CACHE'] and locator_type: xpath
+2018-10-27 22:04:10,643 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'RETRIEVE NEW'] and locator_type: xpath
+2018-10-27 22:04:11,161 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'RETRIEVE ALL'] and locator_type: xpath
+2018-10-27 22:04:11,738 - INFO - Element present with locator_properties: // android.widget.Button[ @ text = 'START SCAN'] and locator_type: xpath
+2018-10-27 22:04:12,725 - INFO - Element found with locator_properties: // android.widget.Button[ @ text = 'START SCAN'] and locator_type: xpath
+2018-10-27 22:04:13,017 - INFO - Clicked on the element with locator_properties: // android.widget.Button[ @ text = 'START SCAN'] and locator_type: xpath
+2018-10-27 22:04:13,018 - ERROR - Main screen element verification failed.

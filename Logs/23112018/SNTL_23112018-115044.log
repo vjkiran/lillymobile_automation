@@ -1,0 +1,33 @@
+2018-11-23 11:51:11,313 - INFO - ###### TEST EXECUTION STARTED :: test_validate_mainpage_elements ######
+2018-11-23 11:51:12,131 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:51:12,807 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:51:12,906 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:51:13,558 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-23 11:51:14,006 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-23 11:51:14,073 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-23 11:51:15,027 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:51:15,391 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:51:15,458 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:51:16,239 - INFO - Element present with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-23 11:51:16,551 - INFO - Element found with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-23 11:51:16,622 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-23 11:51:17,696 - INFO - Element present with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-23 11:51:18,000 - INFO - Element found with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-23 11:51:18,059 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-23 11:51:18,724 - INFO - Element present with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-23 11:51:19,042 - INFO - Element found with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-23 11:51:19,094 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-23 11:51:19,751 - INFO - Element present with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-23 11:51:20,171 - INFO - Element found with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-23 11:51:20,235 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-23 11:51:30,619 - ERROR - Element not present with locator_properties: //android.widget.Button=[@text='OK'] and locator_type: xpath
+2018-11-23 11:51:30,619 - ERROR - Unable to click on the element with locator_properties: //android.widget.Button=[@text='OK'] and locator_type: xpath
+2018-11-23 11:51:32,744 - INFO - Element found with locator_properties: //android.widget.TextView[@text='Connected'] and locator_type: xpath
+2018-11-23 11:51:32,926 - INFO - Element present with locator_properties: //android.widget.Button[@text='DISCONNECT'] and locator_type: xpath
+2018-11-23 11:51:33,170 - INFO - Element found with locator_properties: //android.widget.Button[@text='DISCONNECT'] and locator_type: xpath
+2018-11-23 11:51:33,211 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='DISCONNECT'] and locator_type: xpath
+2018-11-23 11:51:33,931 - INFO - Element found with locator_properties: //android.widget.TextView[@text='Disconnected'] and locator_type: xpath
+2018-11-23 11:51:34,088 - INFO - Element present with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-23 11:51:34,392 - INFO - Element found with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-23 11:51:34,456 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-23 11:51:34,456 - ERROR - Main screen element verification failed.

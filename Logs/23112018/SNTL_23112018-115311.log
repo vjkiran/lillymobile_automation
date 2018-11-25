@@ -1,0 +1,29 @@
+2018-11-23 11:53:38,493 - INFO - ###### TEST EXECUTION STARTED :: test_validate_mainpage_elements ######
+2018-11-23 11:53:39,388 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:53:40,001 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:53:40,069 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:53:40,745 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-23 11:53:41,190 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-23 11:53:41,255 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-23 11:53:42,205 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:53:42,525 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:53:42,588 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-23 11:53:43,505 - INFO - Element present with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-23 11:53:43,893 - INFO - Element found with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-23 11:53:43,968 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-23 11:53:45,102 - INFO - Element present with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-23 11:53:45,510 - INFO - Element found with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-23 11:53:45,577 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-23 11:53:46,246 - INFO - Element present with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-23 11:53:46,543 - INFO - Element found with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-23 11:53:46,609 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-23 11:53:47,283 - INFO - Element present with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-23 11:53:47,666 - INFO - Element found with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-23 11:53:47,725 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-23 11:53:57,977 - ERROR - Element not present with locator_properties: //android.widget.Button=[@text='OK'] and locator_type: xpath
+2018-11-23 11:53:57,977 - ERROR - Unable to click on the element with locator_properties: //android.widget.Button=[@text='OK'] and locator_type: xpath
+2018-11-23 11:53:58,761 - INFO - Element found with locator_properties: //android.widget.TextView[@text='Connected'] and locator_type: xpath
+2018-11-23 11:53:59,460 - INFO - Element present with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-23 11:53:59,873 - INFO - Element found with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-23 11:53:59,932 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='RETRIEVE NEW'] and locator_type: xpath
+2018-11-23 11:53:59,932 - ERROR - Main screen element verification failed.

@@ -1,0 +1,36 @@
+2018-11-21 11:53:27,563 - INFO - ###### TEST EXECUTION STARTED :: test_validate_mainpage_elements ######
+2018-11-21 11:53:28,452 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-21 11:53:28,915 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-21 11:53:29,035 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-21 11:53:29,686 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-21 11:53:30,035 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-21 11:53:30,122 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 2'] and locator_type: xpath
+2018-11-21 11:53:31,032 - INFO - Element present with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-21 11:53:31,468 - INFO - Element found with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-21 11:53:31,541 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='NUM 1'] and locator_type: xpath
+2018-11-21 11:53:32,463 - INFO - Element present with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-21 11:53:32,819 - INFO - Element found with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-21 11:53:32,922 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='START SCAN'] and locator_type: xpath
+2018-11-21 11:53:34,070 - INFO - Element present with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-21 11:53:34,417 - INFO - Element found with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-21 11:53:34,477 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='STOP SCAN'] and locator_type: xpath
+2018-11-21 11:53:35,152 - INFO - Element present with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-21 11:53:35,470 - INFO - Element found with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-21 11:53:35,535 - INFO - Clicked on the element with locator_properties: //android.widget.TextView[@text='meter+06647277 (10:CE:A9:3B:D7:57)'] and locator_type: xpath
+2018-11-21 11:53:36,210 - INFO - Element present with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-21 11:53:36,550 - INFO - Element found with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-21 11:53:36,613 - INFO - Clicked on the element with locator_properties: //android.widget.Button[@text='CONNECT'] and locator_type: xpath
+2018-11-21 11:53:47,166 - ERROR - Exception occurred while waiting for element to be clickable.
+2018-11-21 11:53:57,528 - ERROR - Exception occurred while waiting for element to be visible.
+2018-11-21 11:53:57,528 - ERROR - Element not found with locator_properties: //android.widget.TextView[@text='Connected'] and locator_type: xpath
+2018-11-21 11:53:59,507 - ERROR - Element not present with locator_properties: //android.widget.Button[@text='DISCONNECT'] and locator_type: xpath
+2018-11-21 11:53:59,507 - ERROR - Unable to click on the element with locator_properties: //android.widget.Button[@text='DISCONNECT'] and locator_type: xpath
+2018-11-21 11:54:00,511 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17E477080>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9986824b-2ea5-4bf5-9f8c-e734ce35c66f/element
+2018-11-21 11:54:01,514 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17E477A20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9986824b-2ea5-4bf5-9f8c-e734ce35c66f/element
+2018-11-21 11:54:02,518 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17E477860>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9986824b-2ea5-4bf5-9f8c-e734ce35c66f/element
+2018-11-21 11:54:03,523 - ERROR - Exception occurred while waiting for element to be visible.
+2018-11-21 11:54:03,523 - ERROR - Element not found with locator_properties: //android.widget.TextView[@text='Disconnected'] and locator_type: xpath
+2018-11-21 11:54:03,524 - ERROR - Main screen element verification failed.
+2018-11-21 11:54:04,550 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17E4C24A8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9986824b-2ea5-4bf5-9f8c-e734ce35c66f/appium/app/reset
+2018-11-21 11:54:05,553 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17E4C20B8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9986824b-2ea5-4bf5-9f8c-e734ce35c66f/appium/app/reset
+2018-11-21 11:54:06,557 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F17E4C2978>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session/9986824b-2ea5-4bf5-9f8c-e734ce35c66f/appium/app/reset
